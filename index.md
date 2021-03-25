@@ -11,18 +11,18 @@ LinkedIn                           [LinkedIn](https://in.linkedin.com/)
 Education
 ---------
 
-2010-2014 (expected)
-:   **B.Tech, Information Technology**; R.V.R&J.C College of Engineering (MyTown)
+2018-2022 (expected)
+:   **B.Tech, Information Technology**; R.V.R&J.C College of Engineering (Guntur)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: Tumor detection using machine learning*
+    *Mini Project: Hospital Management*
 
-2007-2010
-:   **Intermediate, MPC**
+2016-2018
+:   **Intermediate, MPC**; Sri Chaitanya College (Vijayawada)
     
-
-    *Mini project: Hospital Management*
-
+2015-2016
+:  10th standard, SSC
+    
 
 Technical Skills :
 --------------------
@@ -41,8 +41,4 @@ Technical Skills :
      * Telugu (native speaker)
      * English
      * Hindi
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+     
