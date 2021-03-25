@@ -2,10 +2,10 @@ Navya Nutakki
 ============
 
 -------------------     ----------------------------
-* MyAddress                          navyanutakki22@gmail.com *
-* Reg id                             Y18IT072 *
-* Mobile No                          123456789 *
-* LinkedIn                           [LinkedIn](https://in.linkedin.com/) *
+* MyAddress                          navyanutakki22@gmail.com 
+* Reg id                             Y18IT072 
+* Mobile No                          123456789 
+* LinkedIn                           [LinkedIn](https://in.linkedin.com/) 
 -------------------     ----------------------------
 
 Education
